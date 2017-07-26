@@ -586,3 +586,11 @@ font-family: 'Aldrich', sans-serif;
               .social_media a, .contact p span , .contact p , .address p{
         display:block;
      }
+	 
+	 
+	  @media all and (max-width: 492px) {
+
+      .my_contacts p{
+             font-size:13px;
+      }
+     }
