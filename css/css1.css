@@ -9,13 +9,9 @@ body {
 
     }
 
-    
-
     * {
     box-sizing: border-box;
 }
-
-
 
 h1, .h1,
 h2, .h2,
@@ -141,8 +137,6 @@ font-size:40px;
 
 }
 
-
-
  header .navbar-default ul.navbar-nav li a:hover {
   -webkit-transition: all 0.25s ease-in-out;
   -moz-transition: all 0.25s ease-in-out;
@@ -150,10 +144,6 @@ font-size:40px;
   -o-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out;
 }
-
-
-
-
 
     header .navbar-default.scrolled{
 
@@ -454,8 +444,6 @@ background-color:#F7F2EC;
 
 }
 
-
-
 .social_media h4{
   color:#fff;
   font-size:30px;
@@ -464,8 +452,6 @@ background-color:#F7F2EC;
    margin-bottom:30px;
  
 }
-
-
 
   .social_media a{
     color:#fff;
@@ -576,22 +562,19 @@ font-family: 'Aldrich', sans-serif;
      }
 
 
-
      @media all and (max-width: 621px) {
        .social_media h4, .contact h4 , .address h4{
           
             font-size:23px;
        }
-              .footer h5{
+      .footer h5{
                 left:26%;
                 font-size:12px; 
               }
 
-
-              .social_media a, .contact p span , .contact p , .address p{
+        .social_media a, .contact p span , .contact p , .address p{
         display:block;
      }
-	 
 	 
 	  @media all and (max-width: 492px) {
 

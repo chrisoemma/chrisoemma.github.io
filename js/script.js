@@ -27,10 +27,7 @@ $(function(){
 
 });
 
-
 $(function(){
-
-
 
   $('.scroll-link').on('click', function(e){
        
@@ -40,11 +37,7 @@ $(function(){
 
     scrollToID('#'+sectionID,1000);
 
- 
-
-
   });
-
 
 
   $('.scroll-top').on('click', function(e) {
@@ -59,9 +52,6 @@ $(function(){
 
        $('#myNavbar').toggle('open');
     }); 
-
-
-
 });
 
 
@@ -77,10 +67,7 @@ $(document).ready(function(){
 
   });
 
-   
-
 });
-
 
 
  function scrollToID(id,speed){
@@ -99,9 +86,6 @@ $(document).ready(function(){
     }
 
     }
-
-
-
 
     function initMap(){
         
