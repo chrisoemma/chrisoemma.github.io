@@ -349,8 +349,7 @@ padding-top:10px;
 
  #recentproject p{
 
-    font-size:20px;
-  font-family:
+  font-size:20px;
   color:#666;
   font-weight:500;
   text-align:center;
@@ -358,8 +357,12 @@ padding-top:10px;
 
  }
 
+ #recentproject .rowspace{
+   padding-bottom:100px;
+ }
+
    #recentproject h5{
-    margin:50px;
+    margin-left:80px;
     font-size:16px;
    }
 
